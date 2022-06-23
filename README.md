@@ -1,5 +1,7 @@
 # TestApp
 
+Simple Android SDK that extract text from an image and also detect face, if face is more than one in the image too is detected.
+
 ### **INSTALLATION**
 ---
 
